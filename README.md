@@ -3,5 +3,5 @@
 3. For Pushup: python GymLytics.py --type Pushup --source resources/push.mp4
 4. For Side-Leg-Up: Just rum the side.py file
 5. For squats: python GymLytics.py --type Squat --source resources/squat.mp4
-6. For cloneing just type "git clone https://github.com/Sathvik2103/Mediapipe.git" in powershell
+6. For Cloning just type "git clone https://github.com/Sathvik2103/Mediapipe.git" in powershell
    
